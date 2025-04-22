@@ -1,1 +1,1 @@
-# e-comm-app
+expense tracker application
